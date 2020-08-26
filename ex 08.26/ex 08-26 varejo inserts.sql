@@ -1,0 +1,15 @@
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("sofá", 400.20, "sala de estar", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("ventilador", 33.20, "sala de estar", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("colchão", 122.20, "quarto", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("cama", 444.20, "quarto", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("criado mudo", 333.20, "quarto", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("armario", 2990.20, "quarto", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("cuba", 304.20, "lavabo", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("pia", 200.20, "lavabo", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("tapete", 40.20, "sala de estar", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("mesa de apoio", 1000.20, "sala de estar", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("mesa", 2000.20, "sala de estar", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("cadeira", 400.20, "sala de estar", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("torneira", 555.20, "cozinha", true, "caixa");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("flexiveis", 244.20, "cozinha", true, "embalado");
+insert into tb_varejo(nome, preço, categoria, disponibilidade, armazenagem)values("abajur", 250.20, "quarto", true, "embalado");

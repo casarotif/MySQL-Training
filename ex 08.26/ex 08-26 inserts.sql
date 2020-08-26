@@ -1,0 +1,9 @@
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Vaches", 111112, 19, 333, 99999999, "Rua Jolly, 02", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Nargles", 111113, 12, 334, 99999999, "Rua Lovvy, 19", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Shower", 111133, 15, 335, 99999999, "Rua Foffy, 42", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Fork", 111114, 12, 336, 99999999, "Rua Bobby, 25", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Kiev", 111144, 18, 337, 99999999, "Rua Shovy, 03", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Youtuber", 111115, 18, 338, 99999999, "Rua Glory, 29", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Humano", 111155, 17, 339, 99999999, "Rua Yury, 439", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Gagi", 111116, 14, 340, 99999999, "Rua Rosy, 559", true, true);
+insert into tb_escola (nome, id, idade, registro, telefone, endereço, estagio, ativo) values ("Batoré", 111177, 12, 341, 99999999, "Rua Vlory, 19", true, true);
